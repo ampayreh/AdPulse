@@ -14,6 +14,8 @@ gensim>=4.0.0
 networkx>=3.0
 pyvis>=0.3.0
 scipy>=1.10.0
+# Insight agent (narrator + critic)
+anthropic>=0.40.0
 # Optional (for BERT sentiment - large download)
 # transformers>=4.20.0
 # torch>=2.0.0
